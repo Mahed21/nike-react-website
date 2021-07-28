@@ -1,0 +1,11 @@
+button{
+    width:170px;
+    height: 60px;
+    background-color:#3a4ade ;
+    color:white;
+    border:none;
+    border-radius: 10px;
+}
+header{
+    background-color: #fff9f4;
+}
