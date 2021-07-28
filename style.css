@@ -9,3 +9,14 @@ button{
 header{
     background-color: #fff9f4;
 }
+.card img{
+    margin:17px;
+}
+.card{
+    box-shadow: 10px 10px 5px whitesmoke;
+    border:none;
+}
+.card1{
+    box-shadow: 10px 10px 10px whitesmoke;
+    border:none;
+}
